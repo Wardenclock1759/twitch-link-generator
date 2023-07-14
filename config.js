@@ -6,4 +6,5 @@ module.exports = {
   TWITCH_CLIENT_ID: process.env.TWITCH_CLIENT_ID,
   TWITCH_SECRET: process.env.TWITCH_SECRET,
   TWICH_TOKEN: process.env.TWICH_TOKEN,
+  TWICH_URL: process.env.TWICH_URL,
 };
